@@ -1,0 +1,14 @@
+.centerContent {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.videobox {
+    width: auto;
+    min-height: 300px;
+}
